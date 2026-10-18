@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+# Personal assessment credentials and unsent results - never commit
+.student.json
+.pending/
